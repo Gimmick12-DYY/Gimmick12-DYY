@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋What's Up? </h1>
+<h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> This is Yuyang! </h1>
 
 ###
 
