@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2D1B69,100:00D4AA&height=120&section=header"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=600&lines=Hey+there+%F0%9F%91%8B+I'm+Yuyang!;CS+%26+Biostatistics+%40+UNC+Chapel+Hill;ML+Researcher+%7C+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D4AA&center=true&vCenter=true&random=false&width=600&lines=I'm+Yuyang+Deng;Computational+Neuroscience+%40+UNC+%26+Duke;Neuroimaging+%7C+ML+%7C+Brain-Computer+Interfaces" alt="Typing SVG" />
 </div>
 
 <br>
@@ -24,10 +24,15 @@
 
 ## About Me
 
-- B.S. in **Computer Science** & B.S. in **Biostatistics** at **UNC Chapel Hill** *(Class of 2027)*, Minor in Mathematics
-- Research Assistant at **UNC Gillings School of Global Public Health** — large-scale neuroimaging-genetic study on Alzheimer's Disease using HPC clusters
-- ML Research Assistant at **Duke University School of Medicine** — PTSD & OCD research with VR, machine learning, and biostatistics
-- Dev Engineer at **UNC Infinite Brain Group** — Brain-Computer Interface chip verification & project web development
+I'm a Computer Science and Biostatistics undergraduate at **UNC Chapel Hill** with a focus on computational neuroscience. My work spans neuroimaging-genetic studies on Alzheimer's Disease, PTSD and OCD research using VR and machine learning, and Brain-Computer Interface chip development.
+
+**Current Research**
+- Multimodal neuroimaging-genetic study on Alzheimer's Disease using HPC clusters -- **UNC Gillings BIG-S2 Group**
+- TR-PTSD & OCD research with VR, ML, and biostatistical methods -- **Duke Suthana Lab**
+- Brain-Computer Interface chip verification & project web development -- **UNC Infinite Brain Group**
+
+**Background**
+- B.S. Computer Science & B.S. Biostatistics *(Class of 2027)*, Mathematics Minor
 
 ---
 
@@ -65,7 +70,7 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gimmick12-DYY&style=flat-square&color=70A5FD" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Gimmick12-DYY&style=flat-square&color=00D4AA" alt="Profile Views" />
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,100:1a1b27&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4AA,100:2D1B69&height=100&section=footer"/>
