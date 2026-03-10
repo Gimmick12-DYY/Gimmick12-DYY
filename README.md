@@ -22,19 +22,16 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-- 🎓 B.S. in **Computer Science** & B.S. in **Biostatistics** at **UNC Chapel Hill** *(Class of 2027)*, Minor in Mathematics
-- 🔬 Research Assistant at **UNC Gillings School of Global Public Health** — large-scale neuroimaging-genetic study on Alzheimer's Disease using HPC clusters
-- 🧪 ML Research Assistant at **Duke University School of Medicine** — PTSD & OCD research with VR, machine learning, and biostatistics
-- 🧠 Dev Engineer at **UNC Infinite Brain Group** — Brain-Computer Interface chip verification & project web development
-- 📊 Former Data Analyst Intern at **NavInfo Co., Ltd.** — strategic analysis, ADAS market research, and financial reporting
-- 🏆 **ASA DataFest Best Visualization** · **Dean's List** · **BBO Gold** · **USABO Silver**
-- 🌐 English · Chinese · French
+- B.S. in **Computer Science** & B.S. in **Biostatistics** at **UNC Chapel Hill** *(Class of 2027)*, Minor in Mathematics
+- Research Assistant at **UNC Gillings School of Global Public Health** — large-scale neuroimaging-genetic study on Alzheimer's Disease using HPC clusters
+- ML Research Assistant at **Duke University School of Medicine** — PTSD & OCD research with VR, machine learning, and biostatistics
+- Dev Engineer at **UNC Infinite Brain Group** — Brain-Computer Interface chip verification & project web development
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,pytorch,r,java,js,c,docker,matlab,bash,react,nodejs,git,css,mysql&perline=7" />
@@ -42,7 +39,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img height="160" src="https://streak-stats.demolab.com?user=Gimmick12-DYY&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=8" alt="Streak Stats" />
@@ -57,7 +54,7 @@
 
 ---
 
-## 🎮 Contribution Game
+## Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gimmick12-DYY/Gimmick12-DYY/output/pacman-contribution-graph-dark.svg">
