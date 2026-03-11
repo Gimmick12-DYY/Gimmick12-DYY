@@ -62,9 +62,9 @@ I'm a Computer Science and Biostatistics undergraduate at **UNC Chapel Hill** wi
 ## Contributions
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gimmick12-DYY/Gimmick12-DYY/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gimmick12-DYY/Gimmick12-DYY/output/pacman-contribution-graph.svg">
-  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/Gimmick12-DYY/Gimmick12-DYY/output/pacman-contribution-graph.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gimmick12-DYY/Gimmick12-DYY/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gimmick12-DYY/Gimmick12-DYY/output/github-snake.svg">
+  <img alt="Snake Contribution Graph" src="https://raw.githubusercontent.com/Gimmick12-DYY/Gimmick12-DYY/output/github-snake.svg" width="100%" />
 </picture>
 
 ---
