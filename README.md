@@ -47,14 +47,14 @@ I'm a Computer Science and Biostatistics undergraduate at **UNC Chapel Hill** wi
 ## GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://streak-stats.demolab.com?user=Gimmick12-DYY&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=8" alt="Streak Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gimmick12-DYY&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" alt="Languages" />
+  <img height="160" src="https://streak-stats.demolab.com?user=Gimmick12-DYY&locale=en&mode=daily&hide_border=true&border_radius=8&background=0d1117&ring=00D4AA&fire=00D4AA&currStreakLabel=00D4AA&sideLabels=00D4AA&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=7B5EA7&stroke=2D1B69" alt="Streak Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gimmick12-DYY&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&hide_border=true&bg_color=0d1117&title_color=00D4AA&text_color=c9d1d9" alt="Languages" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gimmick12-DYY&radius=16&theme=tokyo-night&area=true&hide_border=true" width="95%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gimmick12-DYY&radius=16&hide_border=true&bg_color=0d1117&color=00D4AA&line=00D4AA&point=7B5EA7&area=true&area_color=2D1B69" width="95%" alt="Activity Graph" />
 </div>
 
 ---
