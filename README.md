@@ -48,9 +48,7 @@ I'm a Computer Science and Biostatistics undergraduate at **UNC Chapel Hill** wi
 
 <div align="center">
   <img height="160" src="https://github-readme-streak-stats-eight.vercel.app?user=Gimmick12-DYY&locale=en&mode=daily&hide_border=true&border_radius=8&background=0d1117&ring=00D4AA&fire=00D4AA&currStreakLabel=00D4AA&sideLabels=00D4AA&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=7B5EA7&stroke=2D1B69" alt="Streak Stats" />
-  <div style="height:160px; width:320px; overflow:hidden; display:inline-block;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gimmick12-DYY&theme=transparent" alt="Languages" width="320" style="margin-top:-36px;" />
-  </div>
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gimmick12-DYY&layout=donut&hide_title=true&hide=Jupyter%20Notebook,HTML&bg_color=0d1117&title_color=00D4AA&text_color=c9d1d9&hide_border=true&v=20260508d" alt="Languages" />
 </div>
 
 <br>
